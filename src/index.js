@@ -109,7 +109,7 @@ class GoogleLogin extends Component {
       display: 'inline-block',
       background: '#d14836',
       color: '#fff',
-      width: 100%,
+      width: '100%',
       marginTop: 5,
       paddingTop: 10,
       paddingBottom: 10,
